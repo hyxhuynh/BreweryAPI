@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreweryAPI", "BreweryAPI\BreweryAPI.csproj", "{E351B711-492B-4F40-8BB5-2739AE0DF282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E351B711-492B-4F40-8BB5-2739AE0DF282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E351B711-492B-4F40-8BB5-2739AE0DF282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E351B711-492B-4F40-8BB5-2739AE0DF282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E351B711-492B-4F40-8BB5-2739AE0DF282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF341648-0E28-4674-B886-F7FB9AC93A6E}
+	EndGlobalSection
+EndGlobal
