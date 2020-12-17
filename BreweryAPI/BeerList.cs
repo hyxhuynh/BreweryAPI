@@ -4,15 +4,13 @@ using System.Text;
 
 namespace BreweryAPI
 {
-    public class Beer
+    public class BeerList
     {
-        public Beer()
+        public BeerList()
         {
 
         }
 
-
-        public string Name { get; set; }
-        public string ID { get; set; }
+        public List<Beer> Data = new List<Beer>();
     }
 }
